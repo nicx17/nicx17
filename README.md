@@ -28,31 +28,31 @@ I'm a developer with a strong focus on **automation**, **home infrastructure**, 
 
 ### Logistics & Tracking
 
-| Repo | Description | Tech |
-|------|-------------|------|
-| [![HyTrackV3](https://img.shields.io/badge/HyTrackV3-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nicx17/HyTrackV3) | Automated logistics intelligence tracker — ingests emails, parses Blue Dart & Delhivery waybills, tracks delivery status | Python, Selenium, BeautifulSoup |
-| [![hytrackapi](https://img.shields.io/badge/hytrackapi-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nicx17/hytrackapi) | Headless, secure scraping microservice for courier tracking, optimised for Raspberry Pi | Python, FastAPI, headless Chrome |
+| Repo                                                                                                                                                  | Description                                                                                                              | Tech                             |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ | -------------------------------- |
+| [![HyTrackV3](https://img.shields.io/badge/HyTrackV3-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nicx17/HyTrackV3)    | Automated logistics intelligence tracker — ingests emails, parses Blue Dart & Delhivery waybills, tracks delivery status | Python, Selenium, BeautifulSoup  |
+| [![hytrackapi](https://img.shields.io/badge/hytrackapi-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nicx17/hytrackapi) | Headless, secure scraping microservice for courier tracking, optimised for Raspberry Pi                                  | Python, FastAPI, headless Chrome |
 
 ### Home Assistant & Smart Home
 
-| Repo | Description | Tech |
-|------|-------------|------|
-| [![InfinityX](https://img.shields.io/badge/InfinityX-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nicx17/InfinityX) | ESP32 physically integrated inside a Bluetooth speaker for Home Assistant control | ESPHome, ESP32, IoT |
-| [![unstats](https://img.shields.io/badge/unstats-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nicx17/unstats) | HACS custom integration — exposes Unsplash account stats (views, downloads, likes) to Home Assistant | Python, HACS |
+| Repo                                                                                                                                               | Description                                                                                          | Tech                |
+| -------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ------------------- |
+| [![InfinityX](https://img.shields.io/badge/InfinityX-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nicx17/InfinityX) | ESP32 physically integrated inside a Bluetooth speaker for Home Assistant control                    | ESPHome, ESP32, IoT |
+| [![unstats](https://img.shields.io/badge/unstats-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nicx17/unstats)       | HACS custom integration — exposes Unsplash account stats (views, downloads, likes) to Home Assistant | Python, HACS        |
 
 ### Photo & File Management
 
-| Repo | Description | Tech |
-|------|-------------|------|
-| [![ImmichSync](https://img.shields.io/badge/ImmichSync-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nicx17/ImmichSync) | Intelligently automates image uploads to Immich with local network detection, deduplication & album organisation | Python |
-| [![ImmichSyncRUST](https://img.shields.io/badge/ImmichSyncRUST-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nicx17/ImmichSyncRUST) | Rust rewrite of ImmichSync | Rust |
+| Repo                                                                                                                                                              | Description                                                                                                      | Tech   |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | ------ |
+| [![ImmichSync](https://img.shields.io/badge/ImmichSync-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nicx17/ImmichSync)             | Intelligently automates image uploads to Immich with local network detection, deduplication & album organisation | Python |
+| [![ImmichSyncRUST](https://img.shields.io/badge/ImmichSyncRUST-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nicx17/ImmichSyncRUST) | Rust rewrite of ImmichSync                                                                                       | Rust   |
 
 ### Hardware & Embedded
 
-| Repo | Description | Tech |
-|------|-------------|------|
+| Repo                                                                                                                                               | Description                                         | Tech             |
+| -------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- | ---------------- |
 | [![MultiWave](https://img.shields.io/badge/MultiWave-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nicx17/MultiWave) | Wireless multi-cable tester using Arduino Mega 2560 | C++, Arduino, RF |
-| [![BLKeybrd](https://img.shields.io/badge/BLKeybrd-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nicx17/BLKeybrd) | Bluetooth keyboard project | C++, Bluetooth |
+| [![BLKeybrd](https://img.shields.io/badge/BLKeybrd-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nicx17/BLKeybrd)    | Bluetooth keyboard project                          | C++, Bluetooth   |
 
 ---
 
@@ -64,11 +64,11 @@ I'm a developer with a strong focus on **automation**, **home infrastructure**, 
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
   <a href="https://www.rust-lang.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
-  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
   <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a>
+  <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)" target="_blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a>
 </p>
 
 **Frameworks & Backend**
@@ -121,6 +121,6 @@ I'm a developer with a strong focus on **automation**, **home infrastructure**, 
 
 <div align="center">
 
-*Always building. Currently somewhere in India.*
+_Always building. Currently somewhere in India._
 
 </div>
