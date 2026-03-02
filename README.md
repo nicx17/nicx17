@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi, I'm Nick 👋
+# Hi, I'm Nick ⚡
 
-**Builder of things that automate, integrate, and sometimes just work.**
+**Builder of things that automate, integrate, and sometimes break or just work.**
 
 [![Website](https://img.shields.io/badge/nickcardoso.com-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://link.nickcardoso.com)
 [![GitHub](https://img.shields.io/badge/nicx17-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nicx17)
@@ -30,29 +30,29 @@ I'm a developer with a strong focus on **automation**, **home infrastructure**, 
 
 | Repo | Description | Tech |
 |------|-------------|------|
-| [HyTrackV3](https://github.com/nicx17/HyTrackV3) | Automated logistics intelligence tracker — ingests emails, parses Blue Dart & Delhivery waybills, tracks delivery status | Python, Selenium, BeautifulSoup |
-| [hytrackapi](https://github.com/nicx17/hytrackapi) | Headless, secure scraping microservice for courier tracking, optimised for Raspberry Pi | Python, FastAPI, headless Chrome |
+| [![HyTrackV3](https://img.shields.io/badge/HyTrackV3-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nicx17/HyTrackV3) | Automated logistics intelligence tracker — ingests emails, parses Blue Dart & Delhivery waybills, tracks delivery status | Python, Selenium, BeautifulSoup |
+| [![hytrackapi](https://img.shields.io/badge/hytrackapi-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nicx17/hytrackapi) | Headless, secure scraping microservice for courier tracking, optimised for Raspberry Pi | Python, FastAPI, headless Chrome |
 
 ### Home Assistant & Smart Home
 
 | Repo | Description | Tech |
 |------|-------------|------|
-| [InfinityX](https://github.com/nicx17/InfinityX) | ESP32 physically integrated inside a Bluetooth speaker for Home Assistant control | ESPHome, ESP32, IoT |
-| [unstats](https://github.com/nicx17/unstats) | HACS custom integration — exposes Unsplash account stats (views, downloads, likes) to Home Assistant | Python, HACS |
+| [![InfinityX](https://img.shields.io/badge/InfinityX-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nicx17/InfinityX) | ESP32 physically integrated inside a Bluetooth speaker for Home Assistant control | ESPHome, ESP32, IoT |
+| [![unstats](https://img.shields.io/badge/unstats-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nicx17/unstats) | HACS custom integration — exposes Unsplash account stats (views, downloads, likes) to Home Assistant | Python, HACS |
 
 ### Photo & File Management
 
 | Repo | Description | Tech |
 |------|-------------|------|
-| [ImmichSync](https://github.com/nicx17/ImmichSync) | Intelligently automates image uploads to Immich with local network detection, deduplication & album organisation | Python |
-| [ImmichSyncRUST](https://github.com/nicx17/ImmichSyncRUST) | Rust rewrite of ImmichSync | Rust |
+| [![ImmichSync](https://img.shields.io/badge/ImmichSync-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nicx17/ImmichSync) | Intelligently automates image uploads to Immich with local network detection, deduplication & album organisation | Python |
+| [![ImmichSyncRUST](https://img.shields.io/badge/ImmichSyncRUST-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nicx17/ImmichSyncRUST) | Rust rewrite of ImmichSync | Rust |
 
 ### Hardware & Embedded
 
 | Repo | Description | Tech |
 |------|-------------|------|
-| [MultiWave](https://github.com/nicx17/MultiWave) | Wireless multi-cable tester using Arduino Mega 2560 | C++, Arduino, RF |
-| [BLKeybrd](https://github.com/nicx17/BLKeybrd) | Bluetooth keyboard project | C++, Bluetooth |
+| [![MultiWave](https://img.shields.io/badge/MultiWave-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nicx17/MultiWave) | Wireless multi-cable tester using Arduino Mega 2560 | C++, Arduino, RF |
+| [![BLKeybrd](https://img.shields.io/badge/BLKeybrd-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nicx17/BLKeybrd) | Bluetooth keyboard project | C++, Bluetooth |
 
 ---
 
@@ -74,18 +74,6 @@ I'm a developer with a strong focus on **automation**, **home infrastructure**, 
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-59666C?style=for-the-badge&logo=python&logoColor=white)
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-![nicx17's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nicx17&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nicx17&layout=compact&theme=dark&hide_border=true)
-
-</div>
 
 ---
 
