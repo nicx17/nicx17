@@ -24,37 +24,7 @@ I'm a developer with a strong focus on **automation**, **home infrastructure**, 
 
 ---
 
-## Featured Projects
 
-### Logistics & Tracking
-
-| Repo                                                                                                                                                  | Description                                                                                                              | Tech                             |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ | -------------------------------- |
-| [![HyTrackV3](https://img.shields.io/badge/HyTrackV3-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nicx17/HyTrackV3)    | Automated logistics intelligence tracker — ingests emails, parses Blue Dart & Delhivery waybills, tracks delivery status | Python, Selenium, BeautifulSoup  |
-| [![hytrackapi](https://img.shields.io/badge/hytrackapi-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nicx17/hytrackapi) | Headless, secure scraping microservice for courier tracking, optimised for Raspberry Pi                                  | Python, FastAPI, headless Chrome |
-
-### Home Assistant & Smart Home
-
-| Repo                                                                                                                                               | Description                                                                                          | Tech                |
-| -------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ------------------- |
-| [![InfinityX](https://img.shields.io/badge/InfinityX-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nicx17/InfinityX) | ESP32 physically integrated inside a Bluetooth speaker for Home Assistant control                    | ESPHome, ESP32, IoT |
-| [![unstats](https://img.shields.io/badge/unstats-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nicx17/unstats)       | HACS custom integration — exposes Unsplash account stats (views, downloads, likes) to Home Assistant | Python, HACS        |
-
-### Photo & File Management
-
-| Repo                                                                                                                                                              | Description                                                                                                      | Tech   |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | ------ |
-| [![ImmichSync](https://img.shields.io/badge/ImmichSync-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nicx17/ImmichSync)             | Intelligently automates image uploads to Immich with local network detection, deduplication & album organisation | Python |
-| [![ImmichSyncRUST](https://img.shields.io/badge/ImmichSyncRUST-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nicx17/ImmichSyncRUST) | Rust rewrite of ImmichSync                                                                                       | Rust   |
-
-### Hardware & Embedded
-
-| Repo                                                                                                                                               | Description                                         | Tech             |
-| -------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- | ---------------- |
-| [![MultiWave](https://img.shields.io/badge/MultiWave-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nicx17/MultiWave) | Wireless multi-cable tester using Arduino Mega 2560 | C++, Arduino, RF |
-| [![BLKeybrd](https://img.shields.io/badge/BLKeybrd-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nicx17/BLKeybrd)    | Bluetooth keyboard project                          | C++, Bluetooth   |
-
----
 
 ## Tech Stack
 
