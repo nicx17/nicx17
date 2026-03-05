@@ -6,7 +6,7 @@
 
 [![Website](https://img.shields.io/badge/nickcardoso.com-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://link.nickcardoso.com)
 [![GitHub](https://img.shields.io/badge/nicx17-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nicx17)
-[![Location](https://img.shields.io/badge/India-FF9933?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/nicx17)
+[![Location](https://img.shields.io/badge/India-EA9BFF?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/nicx17)
 [![Hireable](https://img.shields.io/badge/Open%20to%20Work-00B16A?style=for-the-badge&logo=handshake&logoColor=white)](https://github.com/nicx17)
 
 </div>
