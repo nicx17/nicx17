@@ -1,7 +1,7 @@
 ## Finding purpose
 
 
-#### Most of my projects began due to something causing me an incontinence or some feature not existing in some software 
+#### Most of my projects began due to something causing me an inconvenience or some feature not existing in some software 
 here are some projects I have worked on
 - Multiwave :  a (Wireless) LAN BNC and RJ11 cable tester with up to a 1 km of distance capability. Purpose : my group project for a college competition. Won 1st place
 - Mimick : A Linux desktop client for immich purpose: my desktop screenshots wouldn't show up in my immich album
