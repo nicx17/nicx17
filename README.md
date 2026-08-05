@@ -50,3 +50,4 @@ Here are some im well versed in and some not so much.
 ![Portainer](https://img.shields.io/badge/Portainer-13BEF9?style=for-the-badge&logo=portainer&logoColor=white)
 ![SSL](https://img.shields.io/badge/SSL-003A70?style=for-the-badge&logo=letsencrypt&logoColor=white)
 ![SSH](https://img.shields.io/badge/SSH-000000?style=for-the-badge&logo=openssh&logoColor=white)
+![webxr](https://img.shields.io/badge/webxr-000000?style=for-the-badge&logo=openssh&logoColor=white)
