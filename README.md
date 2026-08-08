@@ -1,16 +1,22 @@
 ## Finding purpose
 
+#### Most of my projects began due to something causing me an inconvenience or some feature not existing in some software
 
-#### Most of my projects began due to something causing me an inconvenience or some feature not existing in some software 
-here are some projects I have worked on
-- Multiwave :  a (Wireless) LAN BNC and RJ11 cable tester with up to a 1 km of distance capability. Purpose : my group project for a college competition. Won 1st place
-- Mimick : A Linux desktop client for immich purpose: my desktop screenshots wouldn't show up in my immich album
-- Letswatch : A website to watch the same video in sync with mnimal or sloppy internet connection and chat. Purpose : ....
-- Unstats : Integrating your Unsplash stats into homeassistant. Purpose: My Unsplash stats now being visible in my homeassistant dashboard
-- HyTrackV3 : Automated package track and email project for Buledart and Delhivery. Purpose: Me not know the minute by minute absolute location of my package
-- Hytrack api : An API for HytrackV3 allowing you to use the parsing backend.
+Here are some projects I have worked on
 
-Here are some im well versed in and some not so much.
+- **[Multiwave](https://github.com/nicx17/MultiWave)**: A (wireless) LAN BNC and RJ11 cable tester capable of operating over distances up to 1 km. Developed as a group project for a college competition, where it won 1st place.
+- **[Mimick](https://github.com/nicx17/mimick)**: A Linux desktop client for Immich. Built because my desktop screenshots weren't syncing to my Immich album.
+- **[Picoaudio](https://github.com/nicx17/picoaudio)**: A custom Bluetooth solution for a car audio system, designed to avoid the annoying chime sounds typical of generic Bluetooth audio boards.
+- **[Room VSA](https://github.com/nicx17/roomvsa)**: A project to virtually image and map my room in 3D.
+- **[InfinityX](https://github.com/nicx17/InfinityX)**: Connected my Bluetooth audio system to Wi-Fi using an ESP32, enabling control via Home Assistant.
+- **[WaveDisp](https://github.com/nicx17/wavedisp)**: A user interface for a 64x64 LED matrix panel powered by a Raspberry Pi Zero 2 W.
+- **[Voltas IR Mapping](https://github.com/nicx17/Voltas-183V-DZU2-IR-CODES)**: Mapped the IR codes for my Voltas split AC. Used this to build an IR transmitter integrated with Home Assistant to control the AC over Wi-Fi.
+- **[Letswatch](https://github.com/nicx17/letswatch)**: A website to watch videos in sync with friends and chat, optimized for minimal or unstable internet connections.
+- **[Unstats](https://github.com/nicx17/unstats)**: Integrates Unsplash statistics into Home Assistant, allowing me to view my Unsplash metrics directly on my dashboard.
+- **[HyTrackV3](https://github.com/nicx17/HyTrackV3)**: An automated package tracking and email notification system for Bluedart and Delhivery. Created because I wanted minute-by-minute location updates for my packages.
+- **[HyTrack API](https://github.com/nicx17/hytrackapi)**: An API for HyTrackV3 that allows access to the underlying parsing backend.
+
+Here are some I'm well versed in and some not so much.
 
 ![Nginx](https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Caddy](https://img.shields.io/badge/Caddy-00ADD8?style=for-the-badge&logo=caddy&logoColor=white)
